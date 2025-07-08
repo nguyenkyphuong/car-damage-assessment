@@ -1,0 +1,106 @@
+# PYTHON BYTECODE  CACHE
+__pycache__
+.py[cod]
+$py.class
+.so
+.pyd
+
+# ENVIRONMENTS 
+.venv
+venv
+env
+ENV
+env.bak
+venv.bak
+.env
+.envrc
+
+# PYTHON PACKAGING
+.egg
+.egg-info
+.eggs
+build
+develop-eggs
+dist
+downloads
+sdist
+wheels
+sharepython-wheels
+.manifest
+.spec
+MANIFEST
+
+# PYCHARM PROJECT FILES
+.idea
+.iml
+
+# TEST  DEBUG
+.log
+.out
+.pytest_cache
+.tox
+.nox
+coverage.xml
+.cover
+.coverage
+.cache
+nosetests.xml
+htmlcov
+.hypothesis
+
+# JUPYTER  NOTEBOOK 
+.ipynb_checkpoints
+profile_default
+ipython_config.py
+
+# STATIC TYPE CHECKERS 
+.mypy_cache
+.dmypy.json
+.pytype
+.pyre
+.ruff_cache
+
+#  DOCUMENTATION 
+docs_build
+.site
+
+# SCRAPY  DJANGO  FLASK CACHE 
+.scrapy
+.webassets-cache
+instance
+db.sqlite3
+db.sqlite3-journal
+local_settings.py
+
+# AI  MACHINE LEARNING PROJECT FILES 
+models
+data
+dataset
+.pt
+.pth
+.h5
+.pkl
+.onnx
+.tflite
+.joblib
+.npz
+.npy
+.csv
+.json
+
+# MEDIA  DEMO 
+screenshots
+.mp4
+.avi
+.mov
+
+# OS  SYSTEM FILES 
+.DS_Store
+Thumbs.db
+
+# OTHER IDES (Optional, in case you ever switch)
+.spyderproject
+.spyproject
+.ropeproject
+.pdm-python
+.abstra
